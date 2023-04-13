@@ -1,9 +1,9 @@
-# template-deno
+# ddu-dein-explorer
 
 <!-- deno-fmt-ignore-start -->
 
-![Test](https://github.com/hasundue/template-deno/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/hasundue/template-deno/branch/main/graph/badge.svg?token=7BS432RAXB)](https://codecov.io/gh/hasundue/template-deno)
+![Test](https://github.com/hasundue/ddu-dein-explorer/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/hasundue/ddu-dein-explorer/branch/main/graph/badge.svg?token=7BS432RAXB)](https://codecov.io/gh/hasundue/ddu-dein-explorer)
 ![denoland/deno](https://img.shields.io/badge/Deno-v1.32.3-informational?logo=deno) <!-- @denopendabot denoland/deno -->
 
 <!-- deno-fmt-ignore-end -->
